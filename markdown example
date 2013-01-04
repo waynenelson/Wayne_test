@@ -26,7 +26,3 @@ For the markdown to parse correctly, you need to add the closing `<link>`
 tag. This is not technically correct HTML, but it will parse in any browser.
 
 
-### Contribute
-
-Let's make the Web prettier. Add your own Markdown theme, or contribute to
-mine, [here](http://bitbucket.org/kevinburke/markdowncss).
